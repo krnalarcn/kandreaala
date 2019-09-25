@@ -1,4 +1,5 @@
 # kandreaala
 Copy the following link --> kandreaala.github.io
-tripp
+
+welcome to the tripp
 
